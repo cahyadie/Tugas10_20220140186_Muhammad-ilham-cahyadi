@@ -12,7 +12,7 @@ function App() {
         My name is SHREK
       </h1>
 
-      <img className='imageku' src="src/assets/890298-full-size-shrek-wallpapers-2560x1440.jpg" alt="foto"  />
+      <img className='imageku' src="https://th.bing.com/th/id/OIP.CVhsT3yzn4IDCXU8REu7JgHaE7?rs=1&pid=ImgDetMain" alt="foto"  />
 
       <p>
         I live in skibidibidi 
